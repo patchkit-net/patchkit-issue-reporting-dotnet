@@ -1,0 +1,5 @@
+/src/PatchKit.IssueReporting/obj/
+/src/PatchKit.IssueReporting/bin/
+/src/packages/
+/src/.idea/
+.DS_Store
